@@ -188,5 +188,5 @@ This project is created for educational and foundational learning purposes. It p
 
 ## 👨‍💻 Author
 ** SRIJAN KUMAR MAURYA**
-**InteraCollectorctive Student Data ** - Developed as a beginner-friendly code pattern for practicing essential software design fundamentals.
+
 
